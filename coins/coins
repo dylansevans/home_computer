@@ -1,0 +1,26 @@
+numOfCoins = []
+for suggestion in list(range(1,100)):
+    coinsOptions = [1,5,25, suggestion]
+    coinsOptions.sort(reverse=True)
+    total = 0
+    for i in list(range(1,100)):
+        coins = 0
+        val = i
+        for c in coinsOptions:
+            while val >= c:
+                coins += 1
+                val -= c
+        total += coins
+    numOfCoins.append(total)
+
+bottom = min(numOfCoins)
+
+i = 0
+
+print(numOfCoins)
+print(bottom / 99)
+
+while numOfCoins[i] != bottom:
+    i+=1
+
+print(i)
