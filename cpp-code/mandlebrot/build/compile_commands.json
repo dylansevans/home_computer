@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dylan/cpp-code/mandlebrot/build",
+  "command": "/usr/bin/c++ -I/home/dylan/cpp-code/mandlebrot/. -g -o CMakeFiles/fractala.dir/fractal.cpp.o -c /home/dylan/cpp-code/mandlebrot/fractal.cpp",
+  "file": "/home/dylan/cpp-code/mandlebrot/fractal.cpp"
+}
+]

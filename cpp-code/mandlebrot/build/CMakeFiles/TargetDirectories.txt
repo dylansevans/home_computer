@@ -1,0 +1,4 @@
+/home/dylan/cpp-code/mandlebrot/build/CMakeFiles/SDL.dir
+/home/dylan/cpp-code/mandlebrot/build/CMakeFiles/fractala.dir
+/home/dylan/cpp-code/mandlebrot/build/CMakeFiles/edit_cache.dir
+/home/dylan/cpp-code/mandlebrot/build/CMakeFiles/rebuild_cache.dir
