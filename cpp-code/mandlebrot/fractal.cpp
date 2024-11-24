@@ -15,21 +15,6 @@ void drawPixel(SDL_Surface* surface, int x, int y) {
     }
 }
 
-/*int getColorOfPixel(std::complex<double>& number, int accuracy) {
-    for (int x; x < accuracy; x++) {
-        number *= number;
-    }
-    if (abs(number) < 10) {
-        return 0;
-    }
-    return 1;
-} */
-
-// void handleAllPixels(SDL_Surface* surface) {
-//     Uint8* pixel_array = (Uint8*)surface->pixels;
-
-// }
-
 
 int main() {
     // Initialize SDL

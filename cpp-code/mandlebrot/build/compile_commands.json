@@ -1,7 +1,7 @@
 [
 {
-  "directory": "/home/dylan/cpp-code/mandlebrot/build",
-  "command": "/usr/bin/c++ -I/home/dylan/cpp-code/mandlebrot/. -g -o CMakeFiles/fractala.dir/fractal.cpp.o -c /home/dylan/cpp-code/mandlebrot/fractal.cpp",
-  "file": "/home/dylan/cpp-code/mandlebrot/fractal.cpp"
+  "directory": "/home/dylansevans/home_computer/cpp-code/mandlebrot/build",
+  "command": "/usr/bin/g++ -I/home/dylansevans/home_computer/cpp-code/mandlebrot/. -I/usr/include/SDL2 -g -o CMakeFiles/fractala.dir/new_fractal.cpp.o -c /home/dylansevans/home_computer/cpp-code/mandlebrot/new_fractal.cpp",
+  "file": "/home/dylansevans/home_computer/cpp-code/mandlebrot/new_fractal.cpp"
 }
 ]
